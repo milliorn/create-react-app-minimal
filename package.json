@@ -8,7 +8,7 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
-    "git-update": "git fetch && git update",
+    "git-update": "git fetch && git pull",
     "start": "react-scripts start",
     "build": "react-scripts build"
   },
