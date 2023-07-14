@@ -1,10 +1,30 @@
 # Getting Started with Create React App
 
+create-react-app-minimal is a minimalistic template for creating React applications using Create React App. It provides a clean and lightweight starting point for building React projects without any additional bloat or unnecessary dependencies.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Source
 
 <https://create-react-app.dev/>
+## Features
+
+- Simple and minimal setup for quick development start
+- Lightweight and optimized build configuration
+- Modular structure for easy code organization
+- Easy customization and extension to suit your project requirements
+
+## Customization
+
+create-react-app-minimal is designed to be a starting point for your React projects. You can customize and extend the project structure, configuration, and functionality according to your specific needs. Feel free to modify the files, add additional dependencies, or integrate with other tools and libraries to enhance your development workflow.
+
+## Getting Started
+
+To get started with create-react-app-minimal, follow these steps:
+
+### Prerequisites
+
+- Node.js: Make sure you have Node.js installed on your machine.
 
 ## Available Scripts
 
