@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+[![CodeQL](https://github.com/milliorn/create-react-app-minimal/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/milliorn/create-react-app-minimal/actions/workflows/github-code-scanning/codeql)
+
 create-react-app-minimal is a minimalistic template for creating React applications using Create React App. It provides a clean and lightweight starting point for building React projects without any additional bloat or unnecessary dependencies.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
